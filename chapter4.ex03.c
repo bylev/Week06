@@ -6,8 +6,8 @@ int area;
 int perimeter; 
  
 int main () {
-height= 2; 
-width= 6;
+height= 5; 
+width= 3;
 
 perimeter= 2*(height + width);
 printf("Perimeter of the rectangle is = %d inches\n", perimeter);
